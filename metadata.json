@@ -1,0 +1,5 @@
+{
+  "name": "GameUI Forge",
+  "description": "A powerful, offline-capable tool for procedurally generating video game UI assets like health bars, crosshairs, and inventory slots without AI.",
+  "requestFramePermissions": []
+}
